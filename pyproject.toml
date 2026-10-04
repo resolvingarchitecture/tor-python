@@ -9,7 +9,7 @@ description = "A local-only Tor client for the RA ecosystem (attaches to a host 
 readme = "README.md"
 requires-python = ">=3.13"
 license = { text = "MIT" }
-authors = [{ name = "Brian Taylor", email = "brian@resolvingarchitecture.io" }]
+authors = [{ name = "Brian Taylor", email = "brian@resolvingarchitecture.dev" }]
 keywords = ["tor", "socks5", "network", "1m5"]
 classifiers = [
     "Programming Language :: Python :: 3.13",
@@ -20,7 +20,7 @@ classifiers = [
 dependencies = ["ra-common"]
 
 [project.urls]
-Homepage = "https://resolvingarchitecture.io"
+Homepage = "https://resolvingarchitecture.dev"
 Repository = "https://github.com/resolvingarchitecture/tor-python"
 
 [project.optional-dependencies]
